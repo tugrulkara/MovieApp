@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_host"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.tugrulkara.movieapp.view.SplashFragment">
+        <action
+            android:id="@+id/action_splashFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/splashFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.tugrulkara.movieapp.view.HomeFragment"
+        android:label="Trending" >
+        <action
+            android:id="@+id/action_homeFragment_to_detailFragment"
+            app:destination="@id/detailFragment"
+            app:popUpToInclusive="false"/>
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.tugrulkara.movieapp.view.DetailFragment">
+        <argument
+            android:name="movies"
+            app:argType="com.tugrulkara.movieapp.data.model.MoviesResult" />
+    </fragment>
+    <fragment
+        android:id="@+id/favMovieFragment"
+        android:name="com.tugrulkara.movieapp.view.FavMovieFragment"
+        android:label="Favorites" >
+        <action
+            android:id="@+id/action_favMovieFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.tugrulkara.movieapp.view.SearchFragment"
+        android:label="Search" >
+        <action
+            android:id="@+id/action_searchFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+</navigation>

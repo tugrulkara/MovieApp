@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/item_trending"
+        android:enabled="true"
+        app:showAsAction="always|withText"
+        android:title="Trending"/>
+
+    <item
+        android:id="@+id/favMovieFragment"
+        android:icon="@drawable/item_favorite"
+        android:enabled="true"
+        app:showAsAction="always|withText"
+        android:title="Favorite"/>
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/item_search"
+        android:enabled="true"
+        app:showAsAction="always|withText"
+        android:title="Search"/>
+
+
+</menu>
