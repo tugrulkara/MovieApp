@@ -13,11 +13,11 @@ A movie app where you can follow, search and favorite popular movies (**MVVM + C
      <td>Detail Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/a1b87079-c132-49a9-8cf4-881f849d843e" width=190 height=340></td>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/f289f688-1d84-4fd0-84bc-71ac124e1d2d" width=190 height=340></td>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/3f2c72db-15e3-4866-91bc-6e6c181f0779" width=190 height=340></td>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/cc0bba60-5bdb-4c62-9e97-4bcb78fba59c" width=190 height=340></td>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/487cd349-22db-4187-933f-87209bfd8d1a" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/splash%20screen.jpg" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/Trends%20Screen1.jpg" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/Trends%20Screen.jpg" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/detail%20screen.jpg" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/detail%20screen1.jpg" width=190 height=340></td>
   </tr>
  </table>
  
@@ -30,11 +30,11 @@ A movie app where you can follow, search and favorite popular movies (**MVVM + C
      <td>Search Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/6cf2f844-01ba-46d3-89eb-8990be661683" width=190 height=340></td>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/13236663-6e6d-4040-8c61-2e2e2c69e194" width=190 height=340></td>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/03617fbc-c7f3-4d00-8d2a-1ca5fc5eb203" width=190 height=340></td>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/e0dc095e-ec2f-423c-a892-9f84ce5b4f95" width=190 height=340></td>
-    <td><img src="https://github.com/tugrulkara/test/assets/74429693/2752962e-28a9-4bfc-bd1a-b96f175eb4ed" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/favorite%20screen.jpg" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/favorite%20screen1.jpg" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/favorite%20screen2.jpg" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/search%20screen.jpg" width=190 height=340></td>
+    <td><img src="https://github.com/tugrulkara/MovieApp/blob/64b6b3fb44eaaacbaf499536d95a50cbe8e6bfef/MovieAppScreen/search%20screen1.jpg" width=190 height=340></td>
   </tr>
  </table>
 
